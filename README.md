@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hi, I'm Bineth Yasandu</h1>
-<h3 align="center">🚀 Aspiring Software Developer | Passionate about Full-Stack Development</h3>
+<h3 align="center"> 
+  🚀 Aspiring Software Engineer & Full-Stack Developer  
+  <br>  
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="40px" alt="SE Icon"/>  
+</h3>
 
 ---
 
