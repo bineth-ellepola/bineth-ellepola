@@ -78,7 +78,10 @@
   <a href="https://github.com/bineth-ellepola" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:binethyasandu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/bineth-ellepola-2827a7313/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_ba
+  <a href="https://www.linkedin.com/in/bineth-ellepola-2827a7313/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
