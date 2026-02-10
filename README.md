@@ -46,19 +46,19 @@ BSc (Hons) in Information Technology Specialized in Software Engineering
 
 <div align="center">
   <a href="https://github.com/bineth-ellepola/fluffy_patals">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bineth-ellepola&repo=project1&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bineth-ellepola&repo=fluffy_patals&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/bineth-ellepola/Quality-education">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bineth-ellepola&repo=project2&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bineth-ellepola&repo=Quality-education&theme=radical&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/bineth-ellepola/nance.inventory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bineth-ellepola&repo=project3&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bineth-ellepola&repo=nance.inventory&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/bineth-ellepola/HabitMate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bineth-ellepola&repo=project4&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bineth-ellepola&repo=HabitMate&theme=radical&hide_border=true" />
   </a>
 </div>
 
