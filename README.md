@@ -1,91 +1,82 @@
-<!-- ==== HEADER ==== -->
-<h1 align="center">Hi 👋, I'm Bineth Ellepola</h1>
-<h3 align="center">Full Stack Developer | JavaScript | React | Node.js | Angular | Open Source 🚀</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&text=Bineth%20Ellepola&fontColor=ffffff&height=200&section=header&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Full-Stack+Developer+%7C+DevOps;Cloud+Infrastructure+%26+Automation;AI+%2F+Machine+Learning+Enthusiast" alt="Typing SVG" />
 
 <p align="center">
-  <a href="https://github.com/bineth-ellepola">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bineth-ellepola&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://komarev.com/ghpvc/?username=bineth-ellepola&label=Profile%20views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/bineth-ellepola?label=Followers&style=flat-square&color=0e75b6" />
+</p>
+
+---
+
+### Who is Bineth Ellepola?
+I am a **Software Engineering Undergraduate** at **SLIIT** focused on **Full-Stack Development** and **DevOps/Cloud Automation**. My approach combines scalable, secure, and performant applications with modern **AI/ML tools** to build intelligent systems.  
+
+BSc (Hons) in Information Technology Specialized in Software Engineering
+
+---
+
+### 🛠️ Technical Ecosystem
+
+#### 🏗️ Web, Mobile & Animations
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-0e75b6?logo=angular&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-0e75b6?logo=vuedotjs&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-0e75b6?logo=svelte&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-0e75b6?logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black) ![Ionic](https://img.shields.io/badge/-Ionic-0e75b6?logo=ionic&logoColor=white) |
+| **UI/UX & 3D** | ![Framer](https://img.shields.io/badge/-Framer-0e75b6?logo=framer&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-0e75b6?logo=threedotjs&logoColor=white) ![GSAP](https://img.shields.io/badge/-GSAP-0e75b6?logo=greensock&logoColor=white) |
+
+#### ⚙️ Backend, Cloud & DevOps
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-0e75b6?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-0e75b6?logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-0e75b6?logo=springboot&logoColor=white) ![Django](https://img.shields.io/badge/-Django-0e75b6?logo=django&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/-AWS-0e75b6?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0e75b6?logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-0e75b6?logo=google-cloud&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-0e75b6?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0e75b6?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-0e75b6?logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-0e75b6?logo=githubactions&logoColor=white) |
+
+#### 🧠 AI, ML & Monitoring
+| Category | Technologies |
+| :--- | :--- |
+| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-0e75b6?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-0e75b6?logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-0e75b6?logo=keras&logoColor=white) |
+| **Monitoring** | ![Prometheus](https://img.shields.io/badge/-Prometheus-0e75b6?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-0e75b6?logo=grafana&logoColor=white) ![ELK](https://img.shields.io/badge/-ELK_Stack-0e75b6?logo=elasticstack&logoColor=white) |
+
+---
+
+### 🚀 Featured Projects & Repositories
+
+<div align="center">
+  <a href="https://github.com/bineth-ellepola/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bineth-ellepola&repo=project1&theme=radical&hide_border=true" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bineth-ellepola&style=flat-square&color=blue" alt="Profile views" />
-</p>
-
----
-
-<!-- ==== ABOUT ME ==== -->
-## 👋 About Me
-
-I'm a passionate **Full Stack Developer** with experience building scalable web apps using modern technologies.  
-I love transforming ideas into real products and always learning new things in tech.
-
-- 🔭 I’m currently working on **Web & Cloud Projects**
-- 🌱 I’m learning **Advanced Cloud & DevOps**
-- 💬 Ask me about JavaScript, React, Node.js, Angular
-- 👯 I’m open to collaborating on Open Source
-
----
-
-<!-- ==== SKILLS ==== -->
-## 🛠 Tech Stack
-
-<p align="center">
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />&nbsp;
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />&nbsp;
-  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />&nbsp;
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />&nbsp;
-  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />&nbsp;
-  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />&nbsp;
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />&nbsp;
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-</p>
-
----
-
-<!-- ==== PROJECTS ==== -->
-## 🔥 Featured Projects
-
-### 📌 Quality Education Web App
-A responsive platform for learners to complete secondary education.  
-**Tech:** React | Node | MongoDB  
-
-### 📌 Factory Production Simulator
-Java multithreaded simulating producer‑consumer workflow.  
-
-*(Replace with real links to your repos)*
-
----
-
-<!-- ==== STATS ==== -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bineth-ellepola&layout=compact&theme=radical" />
-</p>
-
----
-
-<!-- ==== CONNECT ==== -->
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/bineth-ellepola-2827a7313/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Bineth%20Ellepol a-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://github.com/bineth-ellepola/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bineth-ellepola&repo=project2&theme=radical&hide_border=true" />
   </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-@YOUR_HANDLE-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/bineth-ellepola/project3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bineth-ellepola&repo=project3&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/bineth-ellepola/project4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bineth-ellepola&repo=project4&theme=radical&hide_border=true" />
+  </a>
+</div>
+
+---
+
+### 📫 Connect & Collaborate
+<div align="center">
+  <a href="h[ttps://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/bineth-ellepola-2827a7313/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:binethellepola@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Mail%20Me‑red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://portfolio.example.com](https://binethellepola.vercel.app/)">
-    <img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=firefox" alt="Portfolio" />
+  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-0e75b6?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</p>
+</div>
 
----
-
-✨ *Thanks for visiting my profile!*  
-Let’s build something amazing together! 🚀
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
+</div>
