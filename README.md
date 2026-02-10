@@ -45,19 +45,19 @@ BSc (Hons) in Information Technology Specialized in Software Engineering
 ### 🚀 Featured Projects & Repositories
 
 <div align="center">
-  <a href="https://github.com/bineth-ellepola/project1">
+  <a href="https://github.com/bineth-ellepola/fluffy_patals">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bineth-ellepola&repo=project1&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/bineth-ellepola/project2">
+  <a href="https://github.com/bineth-ellepola/Quality-education">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bineth-ellepola&repo=project2&theme=radical&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/bineth-ellepola/project3">
+  <a href="https://github.com/bineth-ellepola/nance.inventory">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bineth-ellepola&repo=project3&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/bineth-ellepola/project4">
+  <a href="https://github.com/bineth-ellepola/HabitMate">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bineth-ellepola&repo=project4&theme=radical&hide_border=true" />
   </a>
 </div>
