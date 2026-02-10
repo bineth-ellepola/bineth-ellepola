@@ -1,100 +1,63 @@
-<h1 align="center">👋 Hi, I'm Bineth Yasandu</h1>
-<h3 align="center">
-🚀 Aspiring Software Engineer | Full-Stack Developer  
-<br/>
-Building real-world solutions with modern technologies
-</h3>
+# Hi, I'm Bineth Ellepola 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bineth-ellepola&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+![Profile Banner](https://img.shields.io/badge/Welcome-to-my-GitHub-blue?style=for-the-badge)
+
+I'm a **Full Stack Developer** passionate about building scalable web applications and exploring modern technologies.  
+I love learning new frameworks, experimenting with cloud and containerization, and contributing to open source.  
 
 ---
 
-## 🌟 About Me  
-
-- 🎓 **B.Sc. (Hons) in Information Technology** Undergraduate  
-- 💻 Passionate about **Full-Stack Development**  
-- 🌱 Currently learning **Spring Boot**, **Flutter**, and advanced **MERN** concepts  
-- 🎯 Goal: Become a **skilled Software Engineer** & contribute to **open-source projects**  
-- ⚡ Fun fact: I enjoy solving coding challenges & experimenting with new tech  
+## 🌱 Currently Learning
+- Advanced **Java & Java EE**  
+- **MERN Stack** (MongoDB, Express, React, Node.js)  
+- **Angular** & **Docker** for containerized apps  
+- Cloud deployment strategies (AWS / Azure)  
 
 ---
 
-## 🛠️ Tech Stack  
+## 💻 Tech Stack
 
-### 🚩 Programming Languages  
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
+### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" /> 
 
----
+### Frameworks & Libraries
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />
 
-### 🎨 Frontend  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
+### Database & Cloud
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" />
 
----
-
-### ⚙️ Backend & Databases  
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+### Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" /> 
 
 ---
 
-### 🧰 Tools & Platforms  
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
+## 🚀 Featured Projects
+- **Quality Education Web App** — Online platform for adult learners to complete secondary education  
+- **Factory Production Simulation** — Multi-threaded Java app simulating producer-consumer model  
+- **MERN Stack Projects** — Full-stack web apps with MongoDB, Express, React, Node.js  
 
 ---
 
+## 📈 GitHub Stats
+
+![Bineee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bineth-ellepola&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bineth-ellepola&layout=compact&theme=radical)
 
 ---
 
-## 🚀 Projects & Learning Journey  
+## 📫 Connect with Me
 
-- 🌐 **MERN Stack Projects** – Full-stack web applications  
-- ☕ **Spring Boot APIs** – RESTful backend systems  
-- 📱 **Flutter Mobile Apps** – Cross-platform applications  
-- 🧩 **Java & OOP** – Strong foundation in object-oriented design  
-
-> 📌 *Pinned projects are available on my GitHub profile.*
-
----
-
-## 📫 Connect With Me  
-
-<p align="center">
-  <a href="https://github.com/bineth-ellepola">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="mailto:binethyasandu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bineth-ellepola-2827a7313/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐ **If you like my work, consider giving a star to my repositories!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bineee-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/bineth-ellepola-2827a7313/))  
+[![GitHub](https://img.shields.io/badge/GitHub-Bineee-black?style=for-the-badge&logo=github)]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/bineth-ellepola))  
+[![Twitter](https://img.shields.io/badge/Twitter-@YOUR_HANDLE-blue?style=for-the-badge&logo=twitter)](https://twitter.com/YOUR_HANDLE)
