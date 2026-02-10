@@ -66,13 +66,13 @@ Here are some projects I’m proud of 😎
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/bineth-ellepola-2827a7313/)">
     <img src="https://img.shields.io/badge/LinkedIn-Bineth%20Ellepol a-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/YOUR_HANDLE">
     <img src="https://img.shields.io/badge/Twitter-@YOUR_HANDLE-blue?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:binethellepola@gmail.com">
     <img src="https://img.shields.io/badge/Email-Mail%20Me‑red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
