@@ -24,8 +24,8 @@ BSc (Hons) in Information Technology Specialized in Software Engineering
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-0e75b6?logo=angular&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-0e75b6?logo=vuedotjs&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-0e75b6?logo=svelte&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-0e75b6?logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black) ![Ionic](https://img.shields.io/badge/-Ionic-0e75b6?logo=ionic&logoColor=white) |
-| **UI/UX & 3D** | ![Framer](https://img.shields.io/badge/-Framer-0e75b6?logo=framer&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-0e75b6?logo=threedotjs&logoColor=white) ![GSAP](https://img.shields.io/badge/-GSAP-0e75b6?logo=greensock&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-0e75b6?logo=flutter&logoColor=white)  |
+
 
 #### ⚙️ Backend, Cloud & DevOps
 | Category | Technologies |
