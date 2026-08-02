@@ -34,11 +34,7 @@ BSc (Hons) in Information Technology Specialized in Software Engineering
 | **Cloud** | ![AWS](https://img.shields.io/badge/-AWS-0e75b6?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0e75b6?logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-0e75b6?logo=google-cloud&logoColor=white) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-0e75b6?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0e75b6?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-0e75b6?logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-0e75b6?logo=githubactions&logoColor=white) |
 
-#### 🧠 AI, ML & Monitoring
-| Category | Technologies |
-| :--- | :--- |
-| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-0e75b6?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-0e75b6?logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-0e75b6?logo=keras&logoColor=white) |
-| **Monitoring** | ![Prometheus](https://img.shields.io/badge/-Prometheus-0e75b6?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-0e75b6?logo=grafana&logoColor=white) ![ELK](https://img.shields.io/badge/-ELK_Stack-0e75b6?logo=elasticstack&logoColor=white) |
+
 
 ---
 
