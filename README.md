@@ -48,6 +48,39 @@ I'm a **Year 3 BSc (Hons) Information Technology (Software Engineering)** underg
 ### 🚀 Featured Projects
 
 <div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://mr-lion-x.vercel.app/">
+        <img src="https://image.thum.io/get/width/600/crop/400/https://mr-lion-x.vercel.app/" width="100%" alt="MrLionX" />
+      </a>
+      <h3>🦁 MrLionX</h3>
+      <p>Frontend software development team building fast, reliable web experiences at reasonable prices.</p>
+      <a href="https://mr-lion-x.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://ambalangoda-travels.vercel.app/">
+        <img src="https://image.thum.io/get/width/600/crop/400/https://ambalangoda-travels.vercel.app/" width="100%" alt="Ambalangoda Travels" />
+      </a>
+      <h3>🌴 Ambalangoda Travels</h3>
+      <p>Travel website for day tours, excursions, round tours and transfers along Sri Lanka's south coast.</p>
+      <a href="https://ambalangoda-travels.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://binethellepola.vercel.app/">
+        <img src="https://image.thum.io/get/width/600/crop/400/https://binethellepola.vercel.app/" width="100%" alt="Portfolio" />
+      </a>
+      <h3>💼 Personal Portfolio</h3>
+      <p>My personal portfolio showcasing my projects, skills and experience.</p>
+      <a href="https://binethellepola.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+</div>
+
+#### 📦 More Repositories
+
+<div align="center">
   <a href="https://github.com/bineth-ellepola/fluffy_patals">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bineth-ellepola&repo=fluffy_patals&theme=radical&hide_border=true" />
   </a>
